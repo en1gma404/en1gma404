@@ -1,4 +1,4 @@
-# ⚔️ THE CHRONICLES OF EN1GMA404 ⚔️
+# ⚔️ THE CHRONICLES OF Nijat ⚔️
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 ## 🏰 THE KNIGHT'S TALE
 
-Greetings, traveler! I am **EN1GMA404**, a **Full Stack Crusader** who traverses the vast lands of software development. With sword in hand and code in heart, I forge applications that stand the test of time, defend databases from the forces of chaos, and build bridges between frontend realms and backend fortresses.
+Greetings, traveler! I am **Nijat**, a **Full Stack Crusader** who traverses the vast lands of software development. With sword in hand and code in heart, I forge applications that stand the test of time, defend databases from the forces of chaos, and build bridges between frontend realms and backend fortresses.
 
 From the ancient scrolls of **HTML & CSS** to the mystical powers of **React** and **Node.js**, I wield the complete arsenal of modern development. My quest: to bring order to the digital realm, one commit at a time.
 
