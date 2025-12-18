@@ -51,7 +51,7 @@ From the ancient scrolls of **HTML & CSS** to the mystical powers of **React** a
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=en1gma404&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=en1gma404&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=en1gma404&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=en1gma404&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9" alt="Top Languages" width="48%" />
 
